@@ -16,6 +16,7 @@ Create api(back) directory =>
 -npm init -y
 -npm i express
 -npm i mysql2
+-npm i nodemon (=>modification scripts package json)
 
 In api directory : create directory src =>
 -create dir models, routes, controllers
