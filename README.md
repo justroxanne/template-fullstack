@@ -1,5 +1,7 @@
 # template-fullstack
 
+PROJECT INITIALIZATION
+
 npm init -y
 
 Switch on a new branch
