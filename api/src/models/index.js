@@ -1,3 +1,4 @@
 const UserModel = require('./userModel');
+const MovieModel = require('./movieModel');
 
-module.exports = { UserModel };
+module.exports = { UserModel, MovieModel };
