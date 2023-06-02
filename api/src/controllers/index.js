@@ -1,3 +1,7 @@
-const { getAllUsers } = require('./usersController');
+const UserController = require('./userController');
+const MovieController = require('./movieController');
 
-module.exports = { getAllUsers };
+module.exports = {
+  UserController,
+  MovieController,
+};
